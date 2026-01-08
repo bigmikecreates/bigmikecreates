@@ -6,6 +6,12 @@ My work focuses on replacing fragile, manual workflows with **reliable, auditabl
 
 ---
 
+## What I'm Working On
+
+- [**LangCGS**](https://github.com/bigmikecreates/langcgs)
+- **InferDNS** (ask me about it)
+- **AggProp** (ask me about it)
+
 ## What I Work On
 
 ### 🏗️ Backend & Systems Engineering

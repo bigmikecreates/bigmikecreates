@@ -33,7 +33,7 @@ My work focuses on replacing fragile, manual workflows with **reliable, auditabl
 
 ## Technical Focus Areas
 
-- **Languages:** Python, JavaScript (TypeScript-oriented), Rust (currently learning), HTML5, CSS (Tailwind, Bootstrap).
+- **Languages:** Python, JavaScript (TypeScript-oriented), Rust (currently learning), HTML5, CSS (Tailwind, Bootstrap)
 - **Backend & APIs:** REST, WebSockets, RPC-style APIs
 - **Data & Storage:** PostgreSQL, Microsoft SQL Server, Redis
 - **Data Pipelines:** Pandas, Polars, PyArrow, ETL design

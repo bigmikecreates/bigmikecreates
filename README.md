@@ -38,5 +38,5 @@ My work focuses on replacing fragile, manual workflows with **reliable, auditabl
 - **Data & Storage:** PostgreSQL, Microsoft SQL Server, Redis
 - **Data Pipelines:** Pandas, Polars, PyArrow, ETL design
 - **Platforms:** Trading systems, internal tooling, automation frameworks
-- **Infra & Tooling:** Docker, Git, CI/CD workflows (GitHub Actions)
+- **Infra & Tooling:** Docker, Git, CI/CD workflows (GitHub Actions), PowerShell, Linux (Ubuntu)
 - **Applied AI:** RAG, workflow orchestration, production guardrails

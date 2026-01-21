@@ -6,7 +6,7 @@ My work focuses on replacing fragile, manual workflows with **reliable, auditabl
 
 ## What I'm Working On
 
-- **LangCGS** (ask me about it)
+- **Ent-CGS** (ask me about it)
 - **InferDNS** (ask me about it)
 - **AggProp** (ask me about it)
 

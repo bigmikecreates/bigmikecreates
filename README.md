@@ -4,12 +4,6 @@ I design, build, and operate production systems in high-risk, high-volume enviro
 
 My work focuses on replacing fragile, manual workflows with **reliable, auditable, machine-driven systems**, and owning those systems end-to-end in production.
 
-## What I'm Working On
-
-- **Ent-CGS** (ask me about it)
-- **InferDNS** (ask me about it)
-- **AggProp** (ask me about it)
-
 ## What I Work On
 
 ### 🏗️ Backend & Systems Engineering

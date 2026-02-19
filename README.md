@@ -1,36 +1,51 @@
 # Hi, I’m Michael 👋
 
-I design, build, and operate production systems in high-risk, high-volume environments—primarily across **trading infrastructure**, **market data pipelines**, and **automation-first backend platforms**.
+I research, experiment, design, build, and operate production systems in high-risk, high-volume environments—primarily across **trading infrastructure**, **automation-first backend platforms**, and **cloud platforms**.
 
-My work focuses on replacing fragile, manual workflows with **reliable, auditable, machine-driven systems**, and owning those systems end-to-end in production.
+My work primarily focuses on enforcing deterministic control boundaries around stochastic components to build reliable, auditable agentic production systems.
 
 ## What I Work On
 
 ### 🏗️ Backend & Systems Engineering
-- End-to-end ownership of backend systems under real operational constraints
+- End-to-end ownership of backend systems under production constraints
 - Automation-first architectures for configuration, execution, and validation
 - Failure-aware system design, incident response, and reliability improvements
-- Backend services exposed via REST, WebSockets, and **RPC-style APIs**
+- Backend services exposed via REST, WebSockets, GraphQL, and **RPC-style APIs**, RSS feed
 
 ### 📈 Trading & Market Infrastructure
-- Trading platform infrastructure (MetaTrader 5, cTrader, MatchTrader)
-- Market data ingestion and reconciliation (OHLCV pipelines, normalization)
+- Trading platform Infrastructure
+  - MetaTrader 5 (Admin, Manager, Client) 
+  - cTrader (Admin, Manager, Client)
+  - MatchTrader (Admin, Manager, Client)
+- Market data ingestion and reconciliation (OHLCV pipelines)
 - Execution quality analysis, latency investigation, and operational risk controls
 
-### ⚙️ Automation, Applied AI & Agentic Systems
+### Automation, Applied AI & Agentic Systems
 - Applied AI used selectively to reduce operational load and cognitive overhead
 - RAG pipelines, intent/entity design, and guardrails for production systems
-- Hybrid deterministic + probabilistic workflows for reliability-critical paths
-- Exploration of **agentic AI patterns** as coordination layers within bounded, auditable system architectures
+- Hybrid (deterministic + stochastic) workflows for reliability-critical paths
+- Neural systems (agentic AI) research and experimentation for prod use cases in comparison to symbolic systems
 
 ---
 
 ## Technical Focus Areas
 
-- **Languages:** Python, JavaScript (TypeScript-oriented), Rust (currently learning), HTML5, CSS (Tailwind, Bootstrap)
-- **Backend & APIs:** REST, WebSockets, RPC-style APIs
-- **Data & Storage:** PostgreSQL, Microsoft SQL Server, Redis
+- **Languages:** Python, Go (currently learning), HTML5, CSS (Tailwind, Bootstrap)
+- **Terminals:** PowerShell, Bash
+- **Web Frameworks:** Flask, Django, FastAPI 
+- **Backend, Feeds, & APIs:** REST, WebSockets, RPC (JSON), GraphQL, RSS
+- **Message Brokers:** RabbitMQ
+- **Data & Storage:** PostgreSQL, SQLite, Microsoft SQL Server, Redis, Azure Storage, AWS S3
 - **Data Pipelines:** Pandas, Polars, PyArrow, ETL design
-- **Platforms:** Trading systems, internal tooling, automation frameworks
-- **Infra & Tooling:** Docker, Git, CI/CD workflows (GitHub Actions), PowerShell, Linux (Ubuntu)
-- **Applied AI:** RAG, workflow orchestration, production guardrails
+- **Trading Platforms:**
+  - MetaTrader 5 (Admin, Manager, Client) 
+  - cTrader (Admin, Manager, Client)
+  - MatchTrader (Admin, Manager, Client)
+- **Infra & Tooling:**
+  - Docker, Git, CI/CD workflows (GitHub Actions), PowerShell, Linux (Ubuntu),
+  - Azure (Container Apps + Environment, Registry, Functions, Storage, etc.)
+  - Bicep (DSL), Terraform (currently learning)
+  - Microsoft Foundry
+- **Applied AI & Agentic Frameworks:**
+  - Voiceflow, Zendesk AI, Essel AI, Crisp
+  - LangChain, LangGraph, LangSmith, CrewAI 

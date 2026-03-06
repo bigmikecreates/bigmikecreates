@@ -6,13 +6,13 @@ My work primarily focuses on enforcing deterministic control boundaries around s
 
 ## What I Work On
 
-### 🏗️ Backend & Systems Engineering
+### Backend & Systems Engineering
 - End-to-end ownership of backend systems under production constraints
 - Automation-first architectures for configuration, execution, and validation
 - Failure-aware system design, incident response, and reliability improvements
 - Backend services exposed via REST, WebSockets, GraphQL, and **RPC-style APIs**, RSS feed
 
-### 📈 Trading & Market Infrastructure
+### Trading & Market Infrastructure
 - Trading platform Infrastructure
   - MetaTrader 5 (Admin, Manager, Client) 
   - cTrader (Admin, Manager, Client)

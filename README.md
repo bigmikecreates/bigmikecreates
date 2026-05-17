@@ -1,16 +1,24 @@
-# Hi, I’m Michael 👋
+## Background
 
-I research, experiment, design, build, and operate production systems in high-risk, high-volume environments—primarily across **trading infrastructure**, **automation-first backend platforms**, and **cloud platforms**.
+I'm a backend engineer currently working as a freelancer where I primarily run experiments and evaluations on the consumer-facing aspect of agentic coding agents. Specific tasks include, but are not limited to:
 
-My work primarily focuses on enforcing deterministic control boundaries around stochastic components to build reliable, auditable agentic production systems.
+- Designing real-life scenarios, supporting artifacts (dummy CSVs, TXTs, etc), and prompt artifacts (system instructions, input prompt) around industry personas (e.g. Operations Research Analyst persona from Logistics & Operations Research industry) to elicit meaningful execution & output failures from pre-release and SOTA models (Opus 7.1, Gemini 3.1 Pro, etc).
 
-## What I Work On
+In my last full-time office position, I worked (for south of 2 years) as an AI Automation Engineer and Trading Operations Manager for a simulated prop firm based in Central London.
 
-### Backend & Systems Engineering
-- End-to-end ownership of backend systems under production constraints
-- Automation-first architectures for configuration, execution, and validation
-- Failure-aware system design, incident response, and reliability improvements
-- Backend services exposed via REST, WebSockets, GraphQL, and **RPC-style APIs**, RSS feed
+## Interests
+
+My current interests focus on the design of complex software systems, specifically across the following disciplines:
+1. Full-stack Engineering (aligned with SWEBoK).
+2. Operations Research.
+3. Systems Engineering (aligned with SEBoK).
+4. Agentic AI Engineering.
+
+My long-term interests are centered on correctness and low-level environments, and will concern the below:
+1. Formal Methods.
+2. Compiler Engineering.
+
+## Professional Experience
 
 ### Trading & Market Infrastructure
 - Trading platform Infrastructure
@@ -26,11 +34,8 @@ My work primarily focuses on enforcing deterministic control boundaries around s
 - Hybrid (deterministic + stochastic) workflows for reliability-critical paths
 - Neural systems (agentic AI) research and experimentation for prod use cases in comparison to symbolic systems
 
----
-
-## Technical Focus Areas
-
-- **Languages:** Python, Go (currently learning), HTML5, CSS (Tailwind, Bootstrap)
+## More
+- **Languages:** Python, HTML5, CSS (Tailwind, Bootstrap)
 - **Terminals:** PowerShell, Bash
 - **Web Frameworks:** Flask, Django, FastAPI 
 - **Backend, Feeds, & APIs:** REST, WebSockets, RPC (JSON), GraphQL, RSS

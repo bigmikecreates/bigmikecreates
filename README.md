@@ -2,7 +2,9 @@
 
 I'm a backend engineer currently working as a freelancer where I primarily run experiments and evaluations on the consumer-facing aspect of agentic coding agents. Specific tasks include, but are not limited to:
 
-- Designing real-life scenarios, supporting artifacts (dummy CSVs, TXTs, etc), and prompt artifacts (system instructions, input prompt) around industry personas (e.g. Operations Research Analyst persona from Logistics & Operations Research industry) to elicit meaningful execution & output failures from pre-release and SOTA models (Opus 7.1, Gemini 3.1 Pro, etc).
+- Designing and validating the following:
+  - Real-life scenarios, supporting artifacts (dummy CSVs, TXTs, etc.), and prompt artifacts (system instructions, input prompts) around industry-specific professional personas ( e.g. hospital operations managers, forensic lab coordinators, facilities planning specialists, etc.) to elicit meaningful execution and output failures from pre-release and SOTA models (Opus 7.1, Gemini 3.1 Pro, etc.).
+  - Professional Operations Research tasks using OR-Tools by writing self-contained optimization prompts, implementing Python solver scripts, generating golden responses, producing optimal value/configuration JSONs, building configuration verifiers, and analysing model failures in constraint encoding, solver execution, post-processing, and final results.
 
 In my last full-time office position, I worked (for south of 2 years) as an AI Automation Engineer and Trading Operations Manager for a simulated prop firm based in Central London.
 

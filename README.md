@@ -1,6 +1,6 @@
 ## Background
 
-I'm a backend engineer currently working as a freelancer where I primarily run experiments and evaluations on the consumer-facing aspect of agentic coding agents. Specific tasks include, but are not limited to:
+I'm a backend engineer (currently freelancing) where I primarily run experiments and evaluations on the consumer-facing aspect of agentic coding agents. Specific tasks include, but are not limited to:
 
 - Designing and validating:
   - Real-life scenarios, supporting artifacts (dummy CSVs, TXTs, etc.), and prompt artifacts (system instructions, input prompts) around industry-specific professional personas ( e.g. hospital operations managers, forensic lab coordinators, facilities planning specialists, etc.) to elicit meaningful execution and output failures from pre-release and SOTA models (Opus 7.1, Gemini 3.1 Pro, etc.).
